@@ -2,7 +2,6 @@
   <img src="./assets/LOGO.png" width="500">
 </p>
 
-
 # ROOK SLM™ Framework
  
 **Boundary-First Intelligence for Secure, Governed Small Language Model Architecture**
