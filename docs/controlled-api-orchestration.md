@@ -93,3 +93,10 @@ Audit Log
 ## Practical Guidance
 
 Start with fewer tools, stronger controls, and clearer logs. Expand only after the organization understands how the AI system behaves under real usage.
+<p align="center">
+  <img src="../assets/LOGO.png" width="200">
+</p>
+
+<p align="center">
+  <sub>ROOK SLM™ — Boundary-First Intelligence</sub>
+</p>
