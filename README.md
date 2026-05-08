@@ -123,3 +123,9 @@ This repository is intended as a public framework and professional portfolio ass
 ## Trademark Notice
 
 ROOK SLM™ and Boundary-First Intelligence™ are used as brand identifiers by Kris B. See [NOTICE.md](NOTICE.md).
+
+---
+
+<p align="center">
+  <img src="./assets/LOGO.png" width="120">
+</p>
