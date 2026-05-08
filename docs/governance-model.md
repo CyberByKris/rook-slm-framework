@@ -88,3 +88,10 @@ Key controls:
 ## Governance Outcome
 
 A governed SLM system should provide not only answers, but also confidence in how those answers were produced, what sources were used, and what boundaries were enforced.
+<p align="center">
+  <img src="../assets/LOGO.png" width="200">
+</p>
+
+<p align="center">
+  <sub>ROOK SLM™ — Boundary-First Intelligence</sub>
+</p>
