@@ -49,3 +49,10 @@ Potential public use cases:
 ## Guiding Constraint
 
 The public roadmap should remain useful without exposing sensitive implementation detail.
+<p align="center">
+  <img src="../assets/LOGO.png" width="200">
+</p>
+
+<p align="center">
+  <sub>ROOK SLM™ — Boundary-First Intelligence</sub>
+</p>
