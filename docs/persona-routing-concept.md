@@ -76,3 +76,10 @@ Common persona-routing risks include:
 ## Design Principle
 
 A persona should have a defined job, a defined boundary, and a defined evidence trail.
+<p align="center">
+  <img src="../assets/LOGO.png" width="200">
+</p>
+
+<p align="center">
+  <sub>ROOK SLM™ — Boundary-First Intelligence</sub>
+</p>
