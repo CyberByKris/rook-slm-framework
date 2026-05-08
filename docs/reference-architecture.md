@@ -117,3 +117,10 @@ Design concerns:
 ## Architectural Principle
 
 No layer should implicitly trust another layer. Each boundary should have a defined purpose, control, and evidence trail.
+<p align="center">
+  <img src="../assets/LOGO.png" width="200">
+</p>
+
+<p align="center">
+  <sub>ROOK SLM™ — Boundary-First Intelligence</sub>
+</p>
