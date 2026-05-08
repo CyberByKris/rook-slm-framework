@@ -1,0 +1,32 @@
+# Secrets and environment files
+.env
+.env.*
+*.pem
+*.key
+*.crt
+*.p12
+*.pfx
+secrets.*
+credentials.*
+
+# Local development
+.DS_Store
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+
+# Private working folders
+/private/
+/internal/
+/customer-artifacts/
+/client-artifacts/
+/proprietary/
+
+# Logs and exports
+*.log
+logs/
+exports/
+
+# Generated archives
+*.zip
