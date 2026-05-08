@@ -83,3 +83,11 @@ Key questions:
 ## Practical Outcome
 
 Boundary-first systems are easier to explain, govern, audit, and defend. They do not eliminate AI risk, but they make risk visible and manageable.
+
+<p align="center">
+  <img src="../assets/LOGO.png" width="200">
+</p>
+
+<p align="center">
+  <sub>ROOK SLM™ — Boundary-First Intelligence</sub>
+</p>
