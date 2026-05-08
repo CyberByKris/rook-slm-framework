@@ -1,7 +1,4 @@
 # ROOK SLM™ Framework
-<p align="center">
-  <img src="assets/logo.png" width="220">
-</p>
 
 # ROOK SLM™
 
