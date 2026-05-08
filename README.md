@@ -1,5 +1,11 @@
 # ROOK SLM™ Framework
+<p align="center">
+  <img src="assets/logo.png" width="220">
+</p>
 
+# ROOK SLM™
+
+Boundary-First Intelligence
 **Boundary-First Intelligence for Secure, Governed Small Language Model Architecture**
 
 ROOK SLM™ is a public reference framework for designing secure, governable, local-first or edge-capable Small Language Model (SLM) systems. It emphasizes controlled context, clear trust boundaries, policy-aware orchestration, and practical AI governance for enterprise and regulated environments.
