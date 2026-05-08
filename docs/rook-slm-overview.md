@@ -47,3 +47,13 @@ ROOK SLM™ is intended for:
 ## Public Reference Scope
 
 This public repository explains the framework at a conceptual and advisory level. It intentionally excludes sensitive implementation details, customer-specific material, private prompts, proprietary routing logic, and operational security controls.
+
+---
+
+<p align="center">
+  <img src="../assets/LOGO.png" width="200">
+</p>
+
+<p align="center">
+  <sub>ROOK SLM™ — Boundary-First Intelligence</sub>
+</p>
