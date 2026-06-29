@@ -40,6 +40,9 @@ Key controls:
 - Evaluation criteria
 - Performance review cadence
 - Known limitations documentation
+- Accuracy and citation guardrail review
+
+The canonical accuracy baseline is maintained in [Accuracy Guardrails](governance/ACCURACY_GUARDRAILS.md). Runtime and seed loaders should reference that file instead of copying its language into separate prompts.
 
 ### 4. Tool Governance
 

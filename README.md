@@ -21,6 +21,7 @@ Use this repo to understand:
 - Controlled API orchestration patterns
 - Persona-based AI system design at a conceptual level
 - Governance, auditability, and compliance considerations
+- Accuracy and citation guardrail baseline
 - Advisory engagement and AI posture assessment templates
 
 ## Repository Structure
@@ -31,9 +32,21 @@ Use this repo to understand:
   boundary-first-intelligence.md
   reference-architecture.md
   governance-model.md
+  governance/
+    ACCURACY_GUARDRAILS.md
+    CITATION_POLICY.md
+    SOURCE_HIERARCHY.md
+    PROVENANCE_MODEL.md
+    TRUST_PRINCIPLES.md
+    STYLE_GUIDE.md
   controlled-api-orchestration.md
   persona-routing-concept.md
   roadmap.md
+/scripts
+  rook_accuracy_guardrails.py
+  seed_rook_guardrails.py
+/tests
+  test_rook_accuracy_guardrails.py
 /templates
   ai-posture-assessment-template.md
   advisory-engagement-outline.md
@@ -100,9 +113,10 @@ This repository does **not** include:
 2. [Boundary-First Intelligence](docs/boundary-first-intelligence.md)
 3. [Reference Architecture](docs/reference-architecture.md)
 4. [Governance Model](docs/governance-model.md)
-5. [Controlled API Orchestration](docs/controlled-api-orchestration.md)
-6. [Persona Routing Concept](docs/persona-routing-concept.md)
-7. [Roadmap](docs/roadmap.md)
+5. [Accuracy Guardrails](docs/governance/ACCURACY_GUARDRAILS.md)
+6. [Controlled API Orchestration](docs/controlled-api-orchestration.md)
+7. [Persona Routing Concept](docs/persona-routing-concept.md)
+8. [Roadmap](docs/roadmap.md)
 
 ## Professional Use
 

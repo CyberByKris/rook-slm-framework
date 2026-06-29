@@ -72,6 +72,7 @@ Design concerns:
 
 - Retrieval scope
 - Trusted sources
+- Claim-to-source metadata
 - Chunking strategy
 - Data classification
 - Context minimization
@@ -87,6 +88,7 @@ Design concerns:
 - Performance constraints
 - Data exposure
 - Output quality validation
+- Citation and accuracy validation
 
 ### Tool / API Orchestration Layer
 
